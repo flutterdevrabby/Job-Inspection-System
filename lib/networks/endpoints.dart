@@ -6,7 +6,7 @@
 //const String url = "http://76.13.100.15:8080/api/v1";
 //import 'package:artneidich_app/features/inpector_acknowledgement/data/rx_get/api.dart';
 
-const String url = "https://api.a-inspect.com/api/v1";
+const String url = "https://api.domainname.com";
 // ignore: unnecessary_brace_in_string_interps
 const String imageUrl = "${url}";
 
