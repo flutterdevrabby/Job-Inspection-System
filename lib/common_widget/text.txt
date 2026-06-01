@@ -1,0 +1,17 @@
+Authentication Review 
+
+# Admin Overview Screen 
+# Admin Inspection Date wise sorting
+# Admin => Get All User APi isSuspended not working
+
+
+# Inspector Overview Screen 
+# Inspection Job Create Screeen Issue
+# Get my Jobs Params search filed
+# Email Support Post APi
+
+
+For Client
+# Aws 
+# Mailgun
+# Google Api Key

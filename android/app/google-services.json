@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "160425369268",
+    "project_id": "fhainspectorapp-9dde8",
+    "storage_bucket": "fhainspectorapp-9dde8.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:160425369268:android:a03df6abb49012fb3a41e1",
+        "android_client_info": {
+          "package_name": "com.fhainspector.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDFi51n3TtGKBSsylwnlLE3v9sMEgpZZqI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,4 @@
+storePassword=fhaInspector@220#
+keyPassword=fhaInspector@220#
+keyAlias=upload
+storeFile=/Users/fajlarabby/artneidich_keystore.jks
